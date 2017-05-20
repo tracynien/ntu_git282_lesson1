@@ -1,12 +1,24 @@
-# Hello World !
+# NTU GIT CLASS EXERCISE 1
 
-### My favorite 3 things:
-* TV
-* Game
-* Code
+Name
+----
+Jessie
 
-## Ha ! It's so Good !
+Young Ruth
 
-```javascript
-alert('Hello world!!');
-```
+Date
+----
+2017-05-20
+
+Github Username
+---------------
+JCCHUANG17
+
+My Favorite 3 Programming Languages
+--------------------------------
+* PHP
+* JAVA
+* C#
+
+My Favorite 3 dishes
+--------------------------------
